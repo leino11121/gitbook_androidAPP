@@ -1,3 +1,2 @@
-# gitbook-template
+# gitbook for android app
 
-说明详见 https://github.com/riskers/blog/issues/48
