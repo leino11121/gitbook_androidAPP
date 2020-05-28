@@ -31,4 +31,4 @@ branches:
 
 env:
   global:
-    - REF=github.com:leino11121/gitbook_androidAPP.git
+    - REF=github.com/leino11121/gitbook_androidAPP.git
