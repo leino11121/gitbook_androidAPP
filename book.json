@@ -32,6 +32,20 @@
     "disqus": {
       "shortName": "gitbook-android"
     },
+    "github-buttons": {
+      "buttons": [{
+        "user": "leino11121",
+        "repo": "gitbook_androidAPP",
+        "type": "star",
+        "size": "small",
+        "count": true
+      }]
+    },
+    "editlink": {
+      "base": "https://github.com/leino11121/gitbook_androidAPP/blob/master",
+      "label": "Edit",
+      "multilingual": false
+    },
     "ga": {
       "token": "UA-131910384-3"
     },
